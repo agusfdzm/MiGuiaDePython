@@ -1,3 +1,7 @@
+"""
+Comprobar si el usuario introduce un numero, si no es un numero indicar que debe introducir un entero. Si es un numero, deberemos comprobar si es o no PAR y notificarlo al usuario.
+"""
+
 numero = input("Introduce un numero: ")
 
 if (numero.isnumeric() == True):
