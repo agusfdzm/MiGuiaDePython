@@ -1,5 +1,5 @@
 #   Definir una función. 
-'''def saludar():
+def saludar():
     print("Hola, ¿qué tal?")
 
 #   Para llamar a la función previamente definida la tenemos que llamar de esta forma
@@ -18,7 +18,7 @@ def suma(a, b):
     resultado = a + b
     return resultado
 
-print(suma(10, 15))'''
+print(suma(10, 15))
 
 #   Funciones que retornan varios valores
 
